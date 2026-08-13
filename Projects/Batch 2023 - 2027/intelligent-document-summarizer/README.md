@@ -1,3 +1,9 @@
+**Project:** Intelligent Document Summarizer
+**Developed by:** Syed Nawaz Ali
+**Roll Number:** 160923748306
+**Batch:** 2023–2027
+**Department:** CSE, Lords Institute of Engineering and Technology
+
 # Intelligent Document Summarizer
 
 A modern web app that uses AI to generate clear, accurate summaries of legal and financial documents. Powered by Google Gemini 2.5 Flash and built with React and Tailwind CSS.
